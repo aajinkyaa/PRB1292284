@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="cmdb_ci_storage_pool" label="LVM Pool" max_length="40" name="cmdb_ci_lvm_pool" type="collection">
+        <element label="RO on cmdb" max_length="40" name="x_snc_prb1292284_ro_on_cmdb" read_only="true" type="string"/>
+    </element>
+</database>
