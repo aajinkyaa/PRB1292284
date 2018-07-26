@@ -2,7 +2,6 @@
 <database>
     <element extends="cmdb_ci" label="PRB1292284 Table" max_length="40" name="x_snc_prb1292284_table" type="collection">
         <element label="RO" max_length="40" name="u_ro" read_only="true" type="string"/>
-        <element label="test12344" max_length="32" name="u_test12344" reference="task_location" type="reference"/>
         <element label="RO on cmdb" max_length="40" name="x_snc_prb1292284_ro_on_cmdb" read_only="true" type="string"/>
     </element>
 </database>

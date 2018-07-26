@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="bc8ed169136b1340481a3d62f244b0bd" sys_domain="global" table="x_snc_prb1292284_table" version="3" view="">
+    <sys_ui_section caption="" section_id="9c7fd925dbaf9b40fd247b7e0f9619e7" sys_domain="global" table="x_snc_prb1292284_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>name</element>
             <position>0</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>fc8e5da913ab1340481a3d62f244b0df</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>d87fd925dbaf9b40fd247b7e0f9619e9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>asset_tag</element>
             <position>1</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>f48e5da913ab1340481a3d62f244b0e0</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>e07fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>assigned_to</element>
             <position>2</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>788e5da913ab1340481a3d62f244b0e0</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>647fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>category</element>
             <position>3</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>f88e5da913ab1340481a3d62f244b0e0</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>e47fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>fault_count</element>
             <position>4</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>7c8e5da913ab1340481a3d62f244b0e0</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>687fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>install_date</element>
             <position>5</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>fc8e5da913ab1340481a3d62f244b0e0</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>e87fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,27 +89,13 @@
             <element>install_status</element>
             <position>6</position>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
-            <sys_id>708e5da913ab1340481a3d62f244b0e1</sys_id>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
+            <sys_id>6c7fd925dbaf9b40fd247b7e0f9619ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">9c7fd925dbaf9b40fd247b7e0f9619e7</sys_ui_section>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_test12344</element>
-            <position>7</position>
-            <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:50:18</sys_created_on>
-            <sys_id>1eeedda913ab1340481a3d62f244b0f4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_prb1292284_table" sys_domain="global" view="Default view">bc8ed169136b1340481a3d62f244b0bd</sys_ui_section>
-            <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:50:18</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -120,19 +106,19 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>ajinkya.avachat@snc</sys_created_by>
-            <sys_created_on>2018-07-26 20:48:34</sys_created_on>
+            <sys_created_on>2018-07-26 20:52:38</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bc8ed169136b1340481a3d62f244b0bd</sys_id>
+            <sys_id>9c7fd925dbaf9b40fd247b7e0f9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_snc_prb1292284_table</sys_name>
             <sys_overrides/>
             <sys_package display_value="PRB1292284" source="x_snc_prb1292284">8de9f4a0db83db002ed1f4a51f9619ee</sys_package>
             <sys_policy/>
             <sys_scope display_value="PRB1292284">8de9f4a0db83db002ed1f4a51f9619ee</sys_scope>
-            <sys_update_name>sys_ui_section_bc8ed169136b1340481a3d62f244b0bd</sys_update_name>
+            <sys_update_name>sys_ui_section_9c7fd925dbaf9b40fd247b7e0f9619e7</sys_update_name>
             <sys_updated_by>ajinkya.avachat@snc</sys_updated_by>
-            <sys_updated_on>2018-07-26 20:48:34</sys_updated_on>
+            <sys_updated_on>2018-07-26 20:52:38</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>
