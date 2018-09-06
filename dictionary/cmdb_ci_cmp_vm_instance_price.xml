@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_cmp_price_product_base" label="VM instance price" max_length="40" name="cmdb_ci_cmp_vm_instance_price" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="RO on cmdb" max_length="40" name="x_snc_prb1292284_ro_on_cmdb" read_only="true" type="string"/>
+    </element>
+</database>

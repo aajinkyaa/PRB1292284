@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_workload_config_provider" label="IPAM Workload Config Provider" max_length="40" name="sn_cmp_wl_cfg_ipam_provider" sizeclass="2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="RO on cmdb" max_length="40" name="x_snc_prb1292284_ro_on_cmdb" read_only="true" type="string"/>
+    </element>
+</database>
